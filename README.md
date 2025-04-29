@@ -1,7 +1,8 @@
 # Jullya Nigro 
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Impacta. 
-* Dedicada na área de tecnologia. * Foco em desenvolvimento de sistemas, banco de dados e análise de dados.
+* Dedicada na área de tecnologia.
+* Foco em desenvolvimento de sistemas, banco de dados e análise de dados.
 * Experiência com Python, SQL, DBEAVER, Power BI, Node, React, e ferramentas No Code.
 * Atualmente trabalho como assistente administrativa e de relacionamento com cliente.
 * Desenvolvendo projetos acadêmicos e pessoais que combinam lógica de programação e visualização de dados.

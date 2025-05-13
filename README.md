@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff1493&ize=35&center=true&vCenter=true&width=1000&lines=OLÁ,+EU+SOU+A+JULLYA+;SEJA+BEM+VINDO+AO+MEU+PERFIL!+:%29)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff1493&ize=35&center=true&vCenter=true&width=1000&lines=ÁNALISE+E+DESENVOLVIMENTO+DE+SISTEMA+;SEJA+BEM+VINDO+AO+MEU+PERFIL!+:%29)](https://git.io/typing-svg)
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Impacta. 
 * Dedicada na área de tecnologia.

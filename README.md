@@ -1,14 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff1493&ize=35&center=true&vCenter=true&width=1000&lines=ANÁLISE+E+DESENVOLVIMENTO+DE+SISTEMAS+;SEJA+BEM+VINDO+AO+MEU+PERFIL!+:%29)](https://git.io/typing-svg)
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Impacta. 
-* Dedicada na área de tecnologia.
-* Foco em desenvolvimento de sistemas, banco de dados e análise de dados.
-* Experiência com Python, SQL, DBEAVER, Power BI, Node, React, e ferramentas No Code.
-* Atualmente trabalho como assistente administrativa e de relacionamento com cliente.
-* Desenvolvendo projetos acadêmicos e pessoais que combinam lógica de programação e visualização de dados.
-
-📚 Sempre em busca de novos aprendizados em tecnologia, especialmente nas áreas de back-end, banco de dados e soluções em nuvem.
-
+🎓 Estudante de ADS na Faculdade Impacta.
 🌱 Explorando o universo tech e evoluindo um commit de cada vez! 
 
 <div> <a href="https://github.com/Jullya-Nigro"> <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Jullya-Nigro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 

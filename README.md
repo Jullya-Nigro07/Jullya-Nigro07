@@ -6,7 +6,7 @@
 
 <a href="https://github.com/Jullya-Nigro">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Jullya-Nigro&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" />
-  <img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jullya-Nigro&amp;exclude_repo=finance_manager,Entrega-Atividade-Grupo15,blueBird_web&amp;layout=compact&amp;langs_count=16&amp;theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jullya-Nigro&repo=blueBird.web,finance_manager&layout=compact&theme=dracula"/>
 </a>
 
   

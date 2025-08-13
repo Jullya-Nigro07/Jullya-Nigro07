@@ -4,9 +4,11 @@
 
 🌱 Explorando o universo tech e evoluindo um commit de cada vez! 
 
-<div> <a href="https://github.com/Jullya-Nigro"> <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Jullya-Nigro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jullya-Nigro&exclude_repo=finance_manager,Entrega-Atividade-Grupo15&layout=compact&langs_count=16&theme=dracula"/>
-</div> 
+<a href="https://github.com/Jullya-Nigro">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Jullya-Nigro&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" />
+  <img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jullya-Nigro&amp;exclude_repo=finance_manager,Entrega-Atividade-Grupo15,blueBird_web&amp;layout=compact&amp;langs_count=16&amp;theme=dracula" />
+</a>
+
   
  ## 
 <div style="display: inline_block"><br> 

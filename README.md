@@ -14,10 +14,11 @@ Linguagens e conhecimento:
 - SQL
 - POWER BI
 
-<a href="https://github.com/Jullya-Nigro">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Jullya-Nigro&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jullya-Nigro&repo=blueBird_web,finance_manager,screenmatch&layout=compact&theme=dracula"/>
-</a>
+<div>
+  <a href="https://github.com/Jullya-Nigro"> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jullya-Nigro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jullya-Nigro&repo=blueBird.web&layout=compact&theme=radical&hide=jupyter%20notebook"/> 
+</div>
 
   
  ## 

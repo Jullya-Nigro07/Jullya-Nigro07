@@ -2,7 +2,17 @@
 
 🎓 Estudante de ADS na Faculdade Impacta.
 
-🌱 Explorando o universo tech e evoluindo um commit de cada vez! 
+Linguagens e conhecimento:
+- Python                          
+- AWS
+- JavaScript
+- HTML
+- css
+- Java
+- Spring boot
+- Git
+- SQL
+- POWER BI
 
 <a href="https://github.com/Jullya-Nigro">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Jullya-Nigro&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" />

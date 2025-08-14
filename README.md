@@ -1,7 +1,5 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff1493&ize=35&center=true&vCenter=true&width=1000&lines=ANÁLISE+E+DESENVOLVIMENTO+DE+SISTEMAS+;SEJA+BEM+VINDO+AO+MEU+PERFIL!+:%29)](https://git.io/typing-svg)
 
-🎓 Estudante de ADS na Faculdade Impacta.
-
 <div>
   <a href="https://github.com/Jullya-Nigro"> 
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jullya-Nigro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> 

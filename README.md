@@ -2,7 +2,7 @@
 
 <a href="https://github.com/Jullya-Nigro">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Jullya-Nigro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jullya-Nigro&repo=blueBird.web&layout=compact&theme=radical"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jullya-Nigro&repo=blueBird.web&layout=compact&theme=radical"/>
 </a>
   
  ## 

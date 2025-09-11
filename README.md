@@ -1,8 +1,8 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff1493&ize=35&center=true&vCenter=true&width=1000&lines=ANÁLISE+E+DESENVOLVIMENTO+DE+SISTEMAS+;SEJA+BEM+VINDO+AO+MEU+PERFIL!+:%29)](https://git.io/typing-svg)
 <div align="center">
-<a href="https://github.com/Jullya-Nigro">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Jullya-Nigro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jullya-Nigro&repo=blueBird.web&layout=compact&theme=radical"/>
+<a href="https://github.com/Impacta-Jullya-Nigro">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Impacta-Jullya-Nigro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Impacta-Jullya-Nigro&repo=blueBird.web&layout=compact&theme=radical"/>
 </a>
   
  ## 
@@ -29,7 +29,7 @@
   <a href="https://www.linkedin.com/in/jullya-nigro-013a15331/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div> 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jullya-Nigro/Jullya-Nigro/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jullya-Nigro/Jullya-Nigro/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jullya-Nigro/Jullya-Nigro/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Impacta-Jullya-Nigro/Impacta-Jullya-Nigro/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Impacta-Jullya-Nigro/Impacta-Jullya-Nigro/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Impacta-Jullya-Nigro/Impacta-Jullya-Nigro/output/github-contribution-grid-snake.svg">
 </picture>

@@ -34,3 +34,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jullya-Nigro07/Jullya-Nigro07/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jullya-Nigro07/Jullya-Nigro07/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+<img align="center" alt="" src="./src/background.gif">
+<img align="right" alt="" height="190px" src="./src/background3.gif">

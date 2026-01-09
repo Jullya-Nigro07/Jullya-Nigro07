@@ -8,7 +8,6 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jullya-Nigro07&repo=blueBird.web&layout=compact&theme=radical"/>
 </a>
 
----
 
 <div style="display: inline_block"><br> 
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -38,10 +37,3 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jullya-Nigro07/Jullya-Nigro07/output/github-contribution-grid-snake.svg">
 </picture>
 
----
-
-
-<img align="center" alt="110px" height="290px" src="./src/background3.gif">
-
-
----

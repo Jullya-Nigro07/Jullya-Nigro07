@@ -11,7 +11,7 @@
     <img 
       alt="Top Languages"
       height="130"
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jullya-Nigro07&layout=compact&custom_title=Tecnologias&langs_count=9&theme=radical&hide=kotlin"/>
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jullya-Nigro07&layout=compact&custom_title=Tecnologias&langs_count=9&theme=radical&hide=kotlin,css"/>
   </a>
 </div>
 

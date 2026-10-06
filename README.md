@@ -35,6 +35,7 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visualstudiocode&logoColor=007ACC&v=1)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=Android-Studio&logoColor=3DDC84)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=Postman&logoColor=FF6C37)
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=Insomnia&logoColor=7F52FF)
 ![DBeaver](https://img.shields.io/badge/-DBeaver-333333?style=flat&logo=DBeaver&logoColor=372923)
 
 

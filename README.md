@@ -7,11 +7,11 @@
     <img 
       alt="GitHub Stats" 
       height="130" 
-      src="https://github-stats-extended.vercel.app/api?username=Jullya-Nigro07&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" />
+      src="https://github-stats-extended.vercel.app/api?username=Jullya-Nigro07&show_icons=true&theme=dracula&bg_color=000000&title_color=ff1493&include_all_commits=true&locale=pt-br" />
     <img 
       alt="Top Languages"
       height="130"
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jullya-Nigro07&layout=compact&custom_title=Tecnologias&langs_count=9&theme=radical&hide=kotlin,css,html"/>
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jullya-Nigro07&layout=compact&custom_title=Tecnologias&langs_count=9&theme=dracula&bg_color=000000&title_color=ff1493&hide=kotlin,css,html"/>
   </a>
 </div>
 
